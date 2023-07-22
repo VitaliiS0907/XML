@@ -1,0 +1,13 @@
+<person_info>
+    <surname>Shevchenko</surname>
+    <name>Vitalii</name>
+    <patronymic>Andriiovych</patronymic>
+    <age>26</age>
+    <number_of_domestic_animals>1</number_of_domestic_animals>
+    <desired_future_salary_USD>
+        <junior>600</junior>
+        <middle>1500</middle>
+        <senior>3000</senior>
+    </desired_future_salary_USD>
+</person_info>
+
