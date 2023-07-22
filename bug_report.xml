@@ -1,1 +1,30 @@
-
+<bug_report>
+    <ID>iOS3_19</ID>
+    <Severity>Major</Severity>
+    <Priority>Medium</Priority>
+    <Application_version>v3.14.3</Application_version>
+    <Enviroment>
+        <phone_model>iPhone 7</phone_model>
+        <version_OS>iOS 15.7.5</version_OS>
+    </Enviroment>
+    <Title>
+        <description>The Remind about the lesson switch (24.7) does not turn on / off notifications on its own, but transfers to the settings section of the phone's OS application</description>
+        <section>Notification Remind about the lesson (24.7)</section>
+    </Title>
+    <Preconditions>
+        <Precondition_1>The application is running</Precondition_1>
+        <Precondition_2>The Settings section (24) is open</Precondition_2>
+    </Preconditions>
+    <Steps>Tap on the switch Remind about the lesson (24.7)</Steps>
+    <Expected_Result>
+        <Result_1>Notifications enabled (switch on)</Result_1>
+        <Result_2>Switch Remind about the lesson (24.7) optional</Result_2>
+        <Result_2.1>disabled - the background color of the switch is white</Result_2.1>
+        <Result_2.2>enabled - the background color of the switch is green</Result_2.2>
+        <Result_3>Reminders for (application name) are turned off / on without going to the device's system settings</Result_3>
+    </Expected_Result>
+    <Actual_Result>Goes to the application settings in the operating system</Actual_Result>
+    <Link>
+        <a href="https://drive.google.com/file/d/1154B_6L9yo8EkL5XcfhFJyChFFGJPZVj/view?usp=share_link">Link to file</a>
+    </Link>
+</bug_report>
