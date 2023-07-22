@@ -1,0 +1,23 @@
+<preferences>
+    <favorite_movie>
+        <film_1>Interstellar</film_1>
+        <film_2>The Proposal</film_2>
+        <film_3>Rocky</film_3>
+    </favorite_movie>
+    <favorite_series>Friends</favorite_series>
+    <favorite_food>
+        <dish_1>Olivie Salad</dish_1>
+        <dish_2>Mashed potatoes</dish_2>
+        <dish_3>Roasted Chicken</dish_3>
+    </favorite_food>
+    <favorite_season>
+        <season_1>Spring</season_1>
+        <season_2>Summer</season_2>
+    </favorite_season>
+    <side_you_would_like_to_visit>
+        <country_1>Czech</country_1>
+        <country_2>Norway</country_2>
+        <country_3>USA</country_3>
+    </side_you_would_like_to_visit>
+</preferences>
+

@@ -1,0 +1,50 @@
+<skills>
+  <Basic_theory>
+        <section_1>Definition and understanding of what testing is</section_1>
+        <section_2>SDLC</section_2>
+        <section_3>STLC</section_3>
+        <section_4>Bug reports</section_4>
+        <section_5>Documentation</section_5>
+        <section_6>Types</section_6>
+        <section_7>Methods</section_7>
+        <section_8>Areas of testing</section_8>
+        <section_n>etc</section_n>
+  </Basic_theory>
+  <Client-server_architecture>Basic concepts and features</Client-server_architecture>
+  <HTTP>
+        <HTTP_1>Server request methods</HTTP_1>
+        <HTTP_2>Server response codes</HTTP_2>
+        <HTTP_3>Structures of requests and responses</HTTP_3>
+  </HTTP>
+  <JSON_XML>Structure and feature</JSON_XML>
+  <API>Postman (JS, API autotests)</API>
+  <DevTools>Google Chrome, FireFox</DevTools>
+  <Mobile_Testing>
+      <Feature_1>iOS</Feature_1>
+      <Feature_2>Android</Feature_2>
+      <Tools_1>XCode</Tools_1>
+      <Tools_2>Android Studio</Tools_2>
+      <Tools_3>ADB</Tools_3>
+      <Tools_4>Proxy and VPN</Tools_4>
+  </Mobile_Testing>
+  <Packet_analyzer_or_Sniffer>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</Packet_analyzer_or_Sniffer>
+  <Linux_Terminal>
+      <Commands>pwd, mkdir, ls -la, mv, cp, cd, cat/>/>>, grep/grep -r . >, find/find . -name, tail/tail -f, ssh, curl</Commands>
+  </Linux_Terminal>
+  <GitHub>
+      <Commands>git add ., git commit, git push, git pull, git branch, git checkout, git merge</Commands>
+  </GitHub>
+  <SQL>
+      <Commands>Create, Delete, Drop, Insert Into, Select, From, Where, Join</Commands>
+  </SQL>
+  <Agile_software_development>Scrum, Kanban</Agile_software_development>
+  <Test_Design_Techniques>
+      <Techniques_1>Equivalence Classes</Techniques_1>
+      <Techniques_2>Boundary Values</Techniques_2>
+      <Techniques_3>Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice)</Techniques_3>
+      <Techniques_4>States and Transitions</Techniques_4>
+  </Test_Design_Techniques>
+  <Stress_Testing>Jmeter</Stress_Testing>
+  <Python>Learning the basics</Python>
+</skills>
+
